@@ -19,30 +19,30 @@ Innovation Experimental College, Northwest A&F University, Yangling, CN
 
 Research Experience
 ======
-<b>Graduate Research Fellow, Jun 2021 – current</b>
+**Graduate Research Fellow, Jun 2021 – current**
 
-College of Life Sciences, Northwest A&F University | Advisor: Dr. <a href="https://life.nwafu.edu.cn/szdw/js2/809883e95b9a42acab50c5e348281e96.htm">Cun Wang</a>
+College of Life Sciences, Northwest A&F University, Advisor: Dr. <a href="https://life.nwafu.edu.cn/szdw/js2/809883e95b9a42acab50c5e348281e96.htm">Cun Wang</a>
 
 • Investigating molecular mechanisms of sulfur deficiency response in Arabidopsis thaliana via brassinosteroid signaling and calcium signaling.
 
 • Integrated transcriptome data of wheat 
 
 
-<b>Undergraduate Research Assistant – Epigenome Editing, Jun 2020 – Jun 2021</b>
+**Undergraduate Research Assistant – Epigenome Editing, Jun 2020 – Jun 2021**
 
 College of Life Sciences, Northwest A&F University, Advisor: Dr. <a href="https://life.nwafu.edu.cn/szdw/js2/aaab4cec07dd404d99f90a6429ef20c6.htm">Israel Ausin</a>
 
 • Designed zinc finger-tagged chromatin remodeling complex subunits to profile protein-DNA interactions.
 
 
-<b>Undergraduate Research Assistant – Epigenome Editing, Jun 2020 – Jun 2021</b>
+**Undergraduate Research Assistant – Epigenome Editing, Jun 2020 – Jun 2021**
 
 College of Life Sciences, Northwest A&F University, Advisor: Dr. <a href="https://life.nwafu.edu.cn/szdw/js2/de6b430e28de44928084be75a6bfc177.htm">Weimin Chen</a>
 
 • Analyzed rhizosphere virome of Robinia pseudoacacia L. and isolated bacteriophage strains.
 
 
-<b>Undergraduate Research Assistant - Bioinformatics Training, Sep 2017 – Jun 2018</b>
+**Undergraduate Research Assistant - Bioinformatics Training, Sep 2017 – Jun 2018**
 
 College of Life Sciences, Northwest A&F University, Advisor: Dr. <a href="https://life.nwafu.edu.cn/szdw/js2/173930.htm">Ruolin Yang</a>
 
