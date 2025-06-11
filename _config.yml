@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Main page"
+title                    : "Xuanyi Chen"
 title_separator          : "-"
 name                     : &name "Xuanyi Chen"
 description              : &description "personal description"
@@ -39,8 +39,8 @@ author:
   orcid            : "http://orcid.org/0000-0002-8822-5903"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Xuanyi-Chen-2"# URL
-  scopus           : "http://www.scopus.com/inward/authorDetails.url?authorID=58669176600&partnerID=MN8TOARS"# URL
+  researchgate     : # URL
+  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
