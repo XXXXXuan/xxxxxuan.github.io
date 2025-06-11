@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Download CV"
-permalink: /assets/files/XuanyiChen-CV.pdf
+title: "CV"
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,3 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/XuanyiChen-CV.pdf)
