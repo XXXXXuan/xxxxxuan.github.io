@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student now major in plant molecular genetics in Life Sciences College, Northwest Agriculture & Forest University, Yangling, China, advised by <a href="https://life.nwafu.edu.cn/szdw/js2/809883e95b9a42acab50c5e348281e96.htm">Prof. Cun Wang</a>. 
+I'm a PhD student now major in plant molecular genetics in Life Sciences College, Northwest Agriculture & Forest University, Yangling, China, advised by Prof. <a href="https://life.nwafu.edu.cn/szdw/js2/809883e95b9a42acab50c5e348281e96.htm">Cun Wang</a>. 
 
 Education
 ======
-PhD in Genetics (Plant Molecular Genetics), Sep 2021 – Sep 2025 (expected)
+**PhD in Genetics (Plant Molecular Genetics), Sep 2021 – Sep 2025 (expected)**
+
 College of Life Sciences, Northwest A&F University, Yangling, CN
 
-BSc in Biotechnology, Sep 2017 – Jun 2021
+
+**BSc in Biotechnology, Sep 2017 – Jun 2021**
+
 Innovation Experimental College, Northwest A&F University, Yangling, CN
 
 Research Experience
