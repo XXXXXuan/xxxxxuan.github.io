@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xuanyi Chen's personal page"
+title                    : "Main page"
 title_separator          : "-"
 name                     : &name "Xuanyi Chen"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ repository               : "XXXXXuan/xxxxxuan.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xuanyi Chen"
+  name             : 
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in plant molecular genetics"
+  bio              : 
   location         : "Yangling, CN"
   employer         : "Northwest A&F University"
   uri              : # URL
