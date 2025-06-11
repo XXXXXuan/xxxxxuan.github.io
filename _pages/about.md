@@ -53,20 +53,20 @@ Publications
 ------
 **2025**
 
-Yanjun Fang†, Chuanfeng Ju†, Laiba Javed†, Chenyu Cao, Yuan Deng, Yaqi Gao, <b>Xuanyi Chen</b>, Lv Sun, Yusheng Zhao, Cun Wang#. (2025). Plasma membrane-associated calcium signaling modulates zinc homeostasis in <i>Arabidopsis</i>. <b><i>Science Bulletin</i></b> 13: S2095-9273(25)00169-0. <i>Research article</i> DOI: <a href="https://www.sciencedirect.com/science/article/pii/S2095927325001690">10.1016/j.scib.2025.02.010</a>
+Yanjun Fang†, Chuanfeng Ju†, Laiba Javed†, Chenyu Cao, Yuan Deng, Yaqi Gao, <b>Xuanyi Chen</b>, Lv Sun, Yusheng Zhao, Cun Wang#. (2025). Plasma membrane-associated calcium signaling modulates zinc homeostasis in <i>Arabidopsis</i>. <b><i>Science Bulletin</i></b> 13: S2095-9273(25)00169-0. DOI: <a href="https://www.sciencedirect.com/science/article/pii/S2095927325001690">10.1016/j.scib.2025.02.010</a> <i>Research article</i> 
 
 
 **2023**
 
-Tian Wang, <b>Xuanyi Chen</b>, Chuanfeng Ju#, Cun Wang#. (2023). Calcium signaling in plant mineral nutrition: From uptake to transport. Plant Communications 4: 100678. (ESI hot paper) <i>Review</i> DOI: <a href="https://www.sciencedirect.com/science/article/pii/S2590346223002067">10.1016/j.xplc.2023.100678</a>
+Tian Wang, <b>Xuanyi Chen</b>, Chuanfeng Ju#, Cun Wang#. (2023). Calcium signaling in plant mineral nutrition: From uptake to transport. Plant Communications 4: 100678. (ESI hot paper) DOI: <a href="https://www.sciencedirect.com/science/article/pii/S2590346223002067">10.1016/j.xplc.2023.100678</a> <i>Review</i> 
 
 
-Min Jia, <b>Xuanyi Chen</b>, Xuetao Shi, Yiling Fang, Yangnan Gu#. (2023). Nuclear transport receptor KA120 regulates molecular condensation of MAC3 to coordinate plant immune activation. <b><i>Cell Host & Microbe</i></b> 31:1685-1699.e7. <i>Research article</i> DOI: <a href="https://www.sciencedirect.com/science/article/pii/S1931312823003402">10.1016/j.chom.2023.08.015</a>
+Min Jia, <b>Xuanyi Chen</b>, Xuetao Shi, Yiling Fang, Yangnan Gu#. (2023). Nuclear transport receptor KA120 regulates molecular condensation of MAC3 to coordinate plant immune activation. <b><i>Cell Host & Microbe</i></b> 31:1685-1699.e7. DOI: <a href="https://www.sciencedirect.com/science/article/pii/S1931312823003402">10.1016/j.chom.2023.08.015</a> <i>Research article</i>
 
 
 **2021**
 
-<b>Xuanyi Chen</b>, Shaojun Li#, Weimin Chen, Quanke Meng. (2021). Characters of Light-sheet Fluorescence Microscope and its Application. <b><i>Shengwujishu Jinzhan 生物技术进展</i></b> 11:126-147. (in Chinese) <i>Review</i> DOI: <a href="https://www.swjsjz.cn/CN/10.19586/j.2095-2341.2020.0115">10.19586/j.2095-2341.2020.0115</a>
+<b>Xuanyi Chen</b>, Shaojun Li#, Weimin Chen, Quanke Meng. (2021). Characters of Light-sheet Fluorescence Microscope and its Application. <b><i>Shengwujishu Jinzhan 生物技术进展</i></b> 11:126-147. (in Chinese) DOI: <a href="https://www.swjsjz.cn/CN/10.19586/j.2095-2341.2020.0115">10.19586/j.2095-2341.2020.0115</a> <i>Review</i>
 
 <br/>
 
