@@ -1,0 +1,13 @@
+---
+title: "Nuclear transport receptor KA120 regulates molecular condensation of MAC3 to coordinate plant immune activation"
+collection: publications
+category: manuscripts
+permalink: /publication/2023CHM
+citation: 'Jia M, <b>Chen X</b>, Shi X, Fang Y, Gu Y#. (2025). &quot;Nuclear transport receptor KA120 regulates molecular condensation of MAC3 to coordinate plant immune activation.&quot; <i>Cell Host & Microbe</i>. <b>31</b> 1685-1699.'
+excerpt: 'The nucleocytoplasmic exchange is of fundamental importance to eukaryotic life and is mediated by karyopherins, a superfamily of nuclear transport receptors. However, the function and cargo spectrum of plant karyopherins are largely obscure. Here, we report proximity-labeling-based proteomic profiling of <i>in vivo</i> substrates of KA120, a karyopherin-β required for suppressing autoimmune induction in <i>Arabidopsis</i>. We identify multiple components of the MOS4-associated complex (MAC), a conserved splicing regulatory protein complex. Surprisingly, we find that KA120 does not affect the nucleocytoplasmic distribution of MAC proteins but rather prevents their protein condensation in the nucleus. Furthermore, we demonstrate that MAC condensation is robustly induced by pathogen infection, which is sufficient to activate defense gene expression, possibly by sequestrating negative immune regulators via phase transition. Our study reveals a noncanonical chaperoning activity of a plant karyopherin, which modulates the nuclear condensation of an evolutionarily conserved splicing regulatory complex to coordinate plant immune activation.'
+date: 2023-10-11
+venue: 'Cell Host & Microbe'
+paperurl: 'http://xxxxxuan.github.io/files/2023CHM.pdf'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

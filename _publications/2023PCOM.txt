@@ -1,0 +1,13 @@
+---
+title: "Calcium signaling in plant mineral nutrition: From uptake to transport"
+collection: publications
+category: manuscripts
+permalink: /publication/2023PCOM
+citation: 'Wang T, <b>Chen X</b>, Ju C#, Wang C#. (2025). &quot;Calcium signaling in plant mineral nutrition: From uptake to transport.&quot; <i>Cell Host & Microbe</i>. <b>4</b> 100678.'
+excerpt: 'Plant mineral nutrition is essential for crop yields and human health. However, the uneven distribution of mineral elements over time and space leads to a lack or excess of available mineral elements in plants. Among the essential nutrients, calcium (Ca<sup>2+</sup>) stands out as a prominent second messenger that plays crucial roles in response to extracellular stimuli in all eukaryotes. Distinct Ca<sup>2+</sup> signatures with unique parameters are induced by different stresses and deciphered by various Ca<sup>2+</sup> sensors. Recent research on the participation of Ca<sup>2+</sup> signaling in regulation of mineral elements has made great progress. In this review, we focus on the impact of Ca<sup>2+</sup> signaling on plant mineral uptake and detoxification. Specifically, we emphasize the significance of Ca<sup>2+</sup> signaling for regulation of plant mineral nutrition and delve into key points and novel avenues for future investigations, aiming to offer new insights into plant ion homeostasis.'
+date: 2023-11-13
+venue: 'Plant Communications'
+paperurl: 'http://xxxxxuan.github.io/files/2023PCOM.pdf'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
