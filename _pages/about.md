@@ -75,7 +75,6 @@ Min Jia, <b>Xuanyi Chen</b>, Xuetao Shi, Yiling Fang, Yangnan Gu#. (2023). Nucle
 
 <b>Xuanyi Chen</b>, Shaojun Li#, Weimin Chen, Quanke Meng. (2021). Characters of Light-sheet Fluorescence Microscope and its Application. <b><i>Shengwujishu Jinzhan 生物技术进展</i></b> 11:126-147. (in Chinese) DOI: <a href="https://www.swjsjz.cn/CN/10.19586/j.2095-2341.2020.0115">10.19586/j.2095-2341.2020.0115</a> <i>Review</i>
 
-<br/>
 
 Professional Service
 ------
