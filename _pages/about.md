@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student now major in plant molecular genetics in Life Sciences College, Northwest Agriculture & Forest University, Yangling, China, advised by Prof. <a href="https://life.nwafu.edu.cn/szdw/js2/809883e95b9a42acab50c5e348281e96.htm">Cun Wang</a>. 
+I am currently a PhD student majoring in plant molecular genetics in College of Life Sciences, Northwest Agriculture & Forest University, Yangling, China, under the supervision of Prof. <a href="https://life.nwafu.edu.cn/szdw/js2/809883e95b9a42acab50c5e348281e96.htm">Cun Wang</a>. 
+
+My research focuses on understanding how plants respond to external stresses by integrating molecular and cellular approaches with multi-omic sequencing data. My first first-author article is currently under revision. I am expected to graduate with a PhD in Sep 2025 and am actively seeking postdoctoral position overseas, particularly in the United States or Europe. <b>I am especially interested in research related to wheat biology, metabolic pathway biosynthesis, or Arabidopsis—my foundational model organism. </b> I am also willing to apply for postdoctoral fellowships to support my research under the guidance of my future postdoctoral mentor. 
 
 Education
 ======
