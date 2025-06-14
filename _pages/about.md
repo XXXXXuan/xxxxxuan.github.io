@@ -28,7 +28,7 @@ College of Life Sciences, Northwest A&F University, Advisor: Dr. <a href="https:
 
 • Investigating molecular mechanisms of sulfur deficiency response in <i>Arabidopsis thaliana</i> via brassinosteroid signaling and calcium signaling.
 
-• Integrated transcriptome data of wheat 
+• Integrated published transcriptome data of wheat under various abiotic stresses, including nitrogen and phosphorus deficiency, salt stress, drought stress, and ABA treatment.
 
 
 **Undergraduate Research Assistant – Epigenome Editing, Jun 2020 – Jun 2021**
@@ -38,11 +38,11 @@ College of Life Sciences, Northwest A&F University, Advisor: Dr. <a href="https:
 • Designed zinc finger-tagged chromatin remodeling complex subunits to profile protein-DNA interactions.
 
 
-**Undergraduate Research Assistant – Epigenome Editing, Jun 2020 – Jun 2021**
+**Undergraduate Research Assistant – Virome Analysis, Sep 2018 – Jun 2020**
 
 College of Life Sciences, Northwest A&F University, Advisor: Dr. <a href="https://life.nwafu.edu.cn/szdw/js2/de6b430e28de44928084be75a6bfc177.htm">Weimin Chen</a>
 
-• Analyzed rhizosphere virome of <i>Robinia pseudoacacia</i> L. and isolated bacteriophage strains.
+• Analyzed rhizosphere virome of <i>Robinia pseudoacacia</i> L. and isolated bacteriophage strains. Hosted One <b>Undergraduate Training Program for Innovation and Entrepreneurship</b> during 2019-2021 ( X201910712537: Influrence and ecological effects of phage on soybean rhizosphere microbiobe, 3,500 CNY)
 
 
 **Undergraduate Research Assistant - Bioinformatics Training, Sep 2017 – Jun 2018**
