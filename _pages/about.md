@@ -59,6 +59,8 @@ College of Life Sciences, Northwest A&F University, Advisor: Dr. <a href="https:
 Publications
 ------
 **2025**
+<b>Chen X</b>, Yu Z, Guo W, Zhou Y, Wang C#, Wang T#. (2025). Brassinosteroid signaling promotes sulfate uptake under sulfur deficiency in <i>Arabidopsis</i>. <b><i>New Phytologist</i></b>. <b>accepted</b> <i>Research article</i> 
+
 
 Yanjun Fang†, Chuanfeng Ju†, Laiba Javed†, Chenyu Cao, Yuan Deng, Yaqi Gao, <b>Xuanyi Chen</b>, Lv Sun, Yusheng Zhao, Cun Wang#. (2025). Plasma membrane-associated calcium signaling modulates zinc homeostasis in <i>Arabidopsis</i>. <b><i>Science Bulletin</i></b> 13: S2095-9273(25)00169-0. DOI: <a href="https://www.sciencedirect.com/science/article/pii/S2095927325001690">10.1016/j.scib.2025.02.010</a> <i>Research article</i> 
 
