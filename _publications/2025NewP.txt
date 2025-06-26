@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025NewP
 citation: '<b>Chen X</b>, Yu Z, Guo W, Zhou Y, Wang C#, Wang T#. (2025). &quot;Brassinosteroid signaling promotes sulfate uptake under sulfur deficiency in <i>Arabidopsis</i>.&quot; <i>New Phytologist</i>. <b>accepted</b>'
+excerpt: Waiting for online...
 date: 2025-06-26
 venue: 'New Phytologist'
 ---
