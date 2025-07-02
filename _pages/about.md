@@ -15,7 +15,7 @@ My research focuses on understanding how plants (especailly <i>Arabidopsis</i> a
 
 Education
 ======
-**PhD in Genetics (Plant Molecular Genetics), Sep 2021 – Sep 2025 (expected)**
+**PhD in Genetics (Plant Molecular Genetics), Sep 2021 – Sep/Dec 2025 (expected)**
 
 College of Life Sciences, Northwest A&F University, Yangling, CN
 
