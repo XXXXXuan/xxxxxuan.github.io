@@ -11,7 +11,7 @@ I am currently a PhD student majoring in plant molecular genetics in College of 
 
 My research focuses on understanding how plants (especailly <i>Arabidopsis</i> and wheat) respond to external stresses by integrating molecular and cellular approaches with multi-omic sequencing data. My first first-author article is currently accepted by <i>New Phytologist</i>. 
 
-<b>I am expected to graduate with a PhD in Sep 2025 and am actively seeking postdoctoral position overseas, particularly in the United States or Europe.</b> I am especially interested in research related to wheat biology, metabolic pathway biosynthesis, or Arabidopsis—my foundational model organism. I am also willing to apply for postdoctoral fellowships to support my research under the guidance of my future postdoctoral mentor. 
+<b>I am expected to graduate with a PhD in Sep/Dec 2025 and am actively seeking postdoctoral position overseas, particularly in the United States or Europe.</b> I am especially interested in research related to wheat biology, metabolic pathway biosynthesis, or Arabidopsis—my foundational model organism. I am also willing to apply for postdoctoral fellowships to support my research under the guidance of my future postdoctoral mentor. 
 
 Education
 ======
