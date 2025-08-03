@@ -9,13 +9,13 @@ redirect_from:
 
 I am currently a PhD student majoring in plant molecular genetics in College of Life Sciences, Northwest Agriculture & Forest University, Yangling, China, under the supervision of Prof. <a href="https://life.nwafu.edu.cn/szdw/js2/809883e95b9a42acab50c5e348281e96.htm">Cun Wang</a>. 
 
-My research focuses on understanding how plants (especailly <i>Arabidopsis</i> and wheat) respond to external stresses by integrating molecular and cellular approaches with multi-omic sequencing data. My first first-author article is currently accepted by <i>New Phytologist</i>. 
+My research focuses on understanding how plants (especailly <i>Arabidopsis</i> and wheat) respond to external stresses by integrating molecular and cellular approaches with multi-omic sequencing data. My first first-author article is currently out in <i>New Phytologist</i>. 
 
-<b>I am expected to graduate with a PhD in Sep/Dec 2025 and am actively seeking postdoctoral position overseas, particularly in the United States or Europe.</b> I am especially interested in research related to wheat biology, metabolic pathway biosynthesis, or Arabidopsis—my foundational model organism. I am also willing to apply for postdoctoral fellowships to support my research under the guidance of my future postdoctoral mentor. 
+<b>I am expected to graduate with a PhD in Dec 2025 and am actively seeking postdoctoral position overseas, particularly in the United States or Europe.</b> I am especially interested in research related to wheat biology, metabolic pathway biosynthesis, or Arabidopsis—my foundational model organism. I am also willing to apply for postdoctoral fellowships to support my research under the guidance of my future postdoctoral mentor. 
 
 Education
 ======
-**PhD in Genetics (Plant Molecular Genetics), Sep 2021 – Sep/Dec 2025 (expected)**
+**PhD in Genetics (Plant Molecular Genetics), Sep 2021 – Dec 2025 (expected)**
 
 College of Life Sciences, Northwest A&F University, Yangling, CN
 
@@ -60,7 +60,7 @@ Publications
 ------
 **2025**
 
-<b>Xuanyi Chen</b>, Zhenghao Yu, Wendi Guo, Yuting Zhou, Cun Wang#, Tian Wang#. (2025). Brassinosteroid signaling promotes sulfate uptake under sulfur deficiency in <i>Arabidopsis</i>. <b><i>New Phytologist</i></b>. (accepted) <i>Research article</i> 
+<b>Xuanyi Chen</b>, Zhenghao Yu, Wendi Guo, Yuting Zhou, Cun Wang#, Tian Wang#. (2025). Brassinosteroid signaling promotes sulfate uptake under sulfur deficiency in <i>Arabidopsis</i>. <b><i>New Phytologist</i></b>. DOI: <a href="https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70390">10.1111/nph.70390</a> <i>Research article</i> 
 
 
 Yanjun Fang†, Chuanfeng Ju†, Laiba Javed†, Chenyu Cao, Yuan Deng, Yaqi Gao, <b>Xuanyi Chen</b>, Lv Sun, Yusheng Zhao, Cun Wang#. (2025). Plasma membrane-associated calcium signaling modulates zinc homeostasis in <i>Arabidopsis</i>. <b><i>Science Bulletin</i></b> 13: S2095-9273(25)00169-0. DOI: <a href="https://www.sciencedirect.com/science/article/pii/S2095927325001690">10.1016/j.scib.2025.02.010</a> <i>Research article</i> 
