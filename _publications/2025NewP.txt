@@ -1,11 +1,16 @@
 ---
-title: "Brassinosteroid signaling promotes sulfate uptake under sulfur deficiency in <i>Arabidopsis</i>"
+title: "Brassinosteroid signaling promotes sulfate uptake under sulfur deficiency in Arabidopsis"
 collection: publications
 category: manuscripts
 permalink: /publication/2025NewP
-citation: '<b>Chen X</b>, Yu Z, Guo W, Zhou Y, Wang C#, Wang T#. (2025). &quot;Brassinosteroid signaling promotes sulfate uptake under sulfur deficiency in <i>Arabidopsis</i>.&quot; <i>New Phytologist</i>. <b>accepted</b>'
-excerpt: Waiting for online...
+citation: '<b>Chen X</b>, Yu Z, Guo W, Zhou Y, Wang C#, Wang T#. (2025). &quot;Brassinosteroid signaling promotes sulfate uptake under sulfur deficiency in Arabidopsis.&quot; <i>New Phytologist</i>. <b>Epub ahead</b>'
+excerpt: 'Sulfur (S) is a crucial macronutrient for plant growth, development, and stress tolerance. It serves as an essential component of amino acids (cysteine and methionine), vitamins, sulfatides, and coenzymes. S deficiency impairs plant productivity; yet, the molecular mechanisms regulating sulfate uptake remain poorly understood.
+In this study, brassinosteroid (BR) signaling was found to be activated under S deficiency, leading to the nuclear accumulation of BZR1, a central transcription factor in the BR signaling. BZR1 expression increased at both the mRNA and protein levels under S deficiency conditions.
+<i>SULTR1;2</i>, a high-affinity sulfate transporter, was identified as a direct downstream target of BZR1 through <i>in vitro</i> and <i>in vivo</i> analyses. Genetic and physiological evidence demonstrated that BZR1 promotes sulfate uptake via <i>SULTR1;2</i> in a BR-dependent manner.
+These findings uncover a molecular mechanism by which BR signaling regulates the S deficiency response through BZR1-mediated activation of <i>SULTR1;2</i>. This work enhances our understanding of nutrient signaling in Arabidopsis and provides potential targets for improving S use efficiency in crops.'
 date: 2025-06-26
 venue: 'New Phytologist'
+paperurl: 'https://onlinelibrary.wiley.com/share/author/AAATGHWXKQKXWPQDHQCM?target=10.1111/nph.70390'
 ---
+
 
