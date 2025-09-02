@@ -68,7 +68,7 @@ Yanjun Fang†, Chuanfeng Ju†, Laiba Javed†, Chenyu Cao, Yuan Deng, Yaqi Gao
 
 **2023**
 
-Tian Wang, <b>Xuanyi Chen</b>, Chuanfeng Ju#, Cun Wang#. (2023). Calcium signaling in plant mineral nutrition: From uptake to transport. Plant Communications 4: 100678. (ESI hot paper) DOI: <a href="https://www.sciencedirect.com/science/article/pii/S2590346223002067">10.1016/j.xplc.2023.100678</a> <i>Review</i> 
+Tian Wang, <b>Xuanyi Chen</b>, Chuanfeng Ju#, Cun Wang#. (2023). Calcium signaling in plant mineral nutrition: From uptake to transport. Plant Communications 4: 100678. (ESI hot paper in May 2025, ESI highly cited paper) DOI: <a href="https://www.sciencedirect.com/science/article/pii/S2590346223002067">10.1016/j.xplc.2023.100678</a> <i>Review</i> 
 
 
 Min Jia, <b>Xuanyi Chen</b>, Xuetao Shi, Yiling Fang, Yangnan Gu#. (2023). Nuclear transport receptor KA120 regulates molecular condensation of MAC3 to coordinate plant immune activation. <b><i>Cell Host & Microbe</i></b> 31:1685-1699.e7. DOI: <a href="https://www.sciencedirect.com/science/article/pii/S1931312823003402">10.1016/j.chom.2023.08.015</a> <i>Research article</i>
