@@ -60,7 +60,7 @@ Publications
 ------
 **2025**
 
-<b>Xuanyi Chen</b>, Zhenghao Yu, Wendi Guo, Yuting Zhou, Cun Wang#, Tian Wang#. (2025). Brassinosteroid signaling promotes sulfate uptake under sulfur deficiency in <i>Arabidopsis</i>. <b><i>New Phytologist</i></b>. DOI: <a href="https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70390">10.1111/nph.70390</a> <i>Research article</i> 
+<b>Xuanyi Chen</b>, Zhenghao Yu, Wendi Guo, Yuting Zhou, Cun Wang#, Tian Wang#. (2025). Brassinosteroid signaling promotes sulfate uptake under sulfur deficiency in Arabidopsis. <b><i>New Phytologist</i></b> 248:250-264. DOI: <a href="https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70390">10.1111/nph.70390</a> <i>Research article</i> 
 
 
 Yanjun Fang†, Chuanfeng Ju†, Laiba Javed†, Chenyu Cao, Yuan Deng, Yaqi Gao, <b>Xuanyi Chen</b>, Lv Sun, Yusheng Zhao, Cun Wang#. (2025). Plasma membrane-associated calcium signaling modulates zinc homeostasis in <i>Arabidopsis</i>. <b><i>Science Bulletin</i></b> 13: S2095-9273(25)00169-0. DOI: <a href="https://www.sciencedirect.com/science/article/pii/S2095927325001690">10.1016/j.scib.2025.02.010</a> <i>Research article</i> 
