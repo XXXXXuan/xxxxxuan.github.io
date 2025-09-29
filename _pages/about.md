@@ -84,3 +84,7 @@ Professional Service
 <b>Assistant Editor, <i><a href="https://www.springer.com/journal/44154">Stress Biology</a></i>, Jul 2023 – current</b>
 
 Yangling, CN
+
+Hobby
+------
+Listening Music & Singing, Walking
