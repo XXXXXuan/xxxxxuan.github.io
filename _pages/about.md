@@ -87,4 +87,6 @@ Yangling, CN
 
 Hobby
 ------
-Listening Music & Singing, Walking
+- Listening Music
+- Singing <a href="https://www.youtube.com/EDZAEmgki9Y">WILDFLOWER - Billie Eilish (Cover)</a>
+- Walking
