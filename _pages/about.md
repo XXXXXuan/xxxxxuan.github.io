@@ -89,6 +89,4 @@ Hobby
 ------
 - Listening Music
 - Singing
-
-    <a href="https://youtu.be/EDZAEmgki9Y">WILDFLOWER - Billie Eilish (Cover)</a>
 - Walking
