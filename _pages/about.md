@@ -65,16 +65,15 @@ Publications
 <div style="text-align: center;">
   <img src="/images/2025NewP.png" 
        alt="2025. Brassinosteroid signaling promotes sulfate uptake under sulfur deficiency in Arabidopsis. New Phytol"
-       style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+       style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); margin-bottom:20px;">
 </div>
-
 
 Yanjun Fang†, Chuanfeng Ju†, Laiba Javed†, Chenyu Cao, Yuan Deng, Yaqi Gao, <b>Xuanyi Chen</b>, Lv Sun, Yusheng Zhao, Cun Wang#. (2025). Plasma membrane-associated calcium signaling modulates zinc homeostasis in <i>Arabidopsis</i>. <b><i>Science Bulletin</i></b> 13: S2095-9273(25)00169-0. DOI: <a href="https://www.sciencedirect.com/science/article/pii/S2095927325001690">10.1016/j.scib.2025.02.010</a> <i>Research article</i> 
 
 <div style="text-align: center;">
   <img src="/images/2025SciBull.jpg" 
        alt="2025. Plasma membrane-associated calcium signaling modulates zinc homeostasis in Arabidopsis. Science Bulletin"
-       style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+       style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); margin-bottom:20px;">
 </div>
 
 **2023**
@@ -84,7 +83,7 @@ Tian Wang, <b>Xuanyi Chen</b>, Chuanfeng Ju#, Cun Wang#. (2023). Calcium signali
 <div style="text-align: center;">
   <img src="/images/2023PCom.jpg" 
        alt="2023. Calcium signaling in plant mineral nutrition: From uptake to transport. Plant Communications"
-       style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+       style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); margin-bottom:20px;">
 </div>
 
 Min Jia, <b>Xuanyi Chen</b>, Xuetao Shi, Yiling Fang, Yangnan Gu#. (2023). Nuclear transport receptor KA120 regulates molecular condensation of MAC3 to coordinate plant immune activation. <b><i>Cell Host & Microbe</i></b> 31:1685-1699.e7. DOI: <a href="https://www.sciencedirect.com/science/article/pii/S1931312823003402">10.1016/j.chom.2023.08.015</a> <i>Research article</i>
@@ -92,7 +91,7 @@ Min Jia, <b>Xuanyi Chen</b>, Xuetao Shi, Yiling Fang, Yangnan Gu#. (2023). Nucle
 <div style="text-align: center;">
   <img src="/images/2023CHM.jpg" 
        alt="2023. Nuclear transport receptor KA120 regulates molecular condensation of MAC3 to coordinate plant immune activation. Cell Host & Microbe"
-       style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+       style="max-width: 80%; height: auto; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); margin-bottom:20px;">
 </div>
 
 **2021**
