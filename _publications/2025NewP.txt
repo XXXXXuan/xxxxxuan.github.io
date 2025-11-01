@@ -10,8 +10,9 @@ In this study, brassinosteroid (BR) signaling was found to be activated under S 
 These findings uncover a molecular mechanism by which BR signaling regulates the S deficiency response through BZR1-mediated activation of <i>SULTR1;2</i>. This work enhances our understanding of nutrient signaling in Arabidopsis and provides potential targets for improving S use efficiency in crops.'
 date: 2025-06-26
 venue: 'New Phytologist'
-paperurl: 'https://onlinelibrary.wiley.com/share/author/AAATGHWXKQKXWPQDHQCM?target=10.1111/nph.70390'
+paperurl: 'http://xxxxxuan.github.io/files/2025NewP.pdf'
 ---
+
 
 
 
