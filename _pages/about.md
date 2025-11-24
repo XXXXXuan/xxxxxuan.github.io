@@ -105,7 +105,7 @@ Professional Service
 
 Yangling, CN
 
-Hobby
+Outside of Work
 ------
 - Listening Music
 - Singing
