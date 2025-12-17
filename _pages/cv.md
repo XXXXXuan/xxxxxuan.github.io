@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 [Download CV (PDF)](/files/XuanyiChen-CV.pdf)
-Updated October 24, 2025
+Updated December 17, 2025
