@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student majoring in plant molecular genetics in College of Life Sciences, Northwest Agriculture & Forest University, Yangling, China, under the supervision of Prof. <a href="https://life.nwafu.edu.cn/szdw/js2/809883e95b9a42acab50c5e348281e96.htm">Cun Wang</a>. 
+I received my PhD in Plant Molecular Genetics in College of Life Sciences, Northwest Agriculture & Forest University, Yangling, China, under the supervision of Prof. <a href="https://life.nwafu.edu.cn/szdw/js2/809883e95b9a42acab50c5e348281e96.htm">Cun Wang</a>. 
 
 My research focuses on understanding how plants (especailly <i>Arabidopsis</i> and wheat) respond to external stresses by integrating molecular and cellular approaches with multi-omic sequencing data. My first first-author article is currently out in <i>New Phytologist</i>. 
 
-<b>I will graduate with a PhD in Dec 2025 and am actively seeking postdoctoral position overseas, particularly in the North America or Europe.</b> I am especially interested in research related to crops biology (e.g. wheat, tomoto, sorghum...), metabolic pathway biosynthesis, or Arabidopsis—my foundational model organism. I am also willing to apply for postdoctoral fellowships to support my research under the guidance of my future postdoctoral mentor. 
+<b>I graduated with a PhD in Dec 2025 and am actively seeking postdoctoral positions overseas, particularly in the North America or Europe.</b> I am especially interested in research related to crops biology (e.g. wheat, tomoto, sorghum...), metabolic pathway biosynthesis, or Arabidopsis, which has been my primary model organism. I am also willing to apply for postdoctoral fellowships to support my research under the guidance of my future postdoctoral mentor. 
 
 Education
 ======
@@ -20,13 +20,13 @@ Education
 College of Life Sciences, Northwest A&F University, Yangling, CN
 
 
-**BSc in Biotechnology, Sep 2017 – Jun 2021**
+**BSc in Biotechnology (Honors Diploma), Sep 2017 – Jun 2021**
 
 Innovation Experimental College, Northwest A&F University, Yangling, CN
 
 Research Experience
 ======
-**Graduate Research Fellow, Jun 2021 – current**
+**Graduate Research Fellow, Jun 2021 – Dec 2025**
 
 College of Life Sciences, Northwest A&F University, Advisor: Dr. <a href="https://life.nwafu.edu.cn/szdw/js2/809883e95b9a42acab50c5e348281e96.htm">Cun Wang</a>
 
@@ -101,7 +101,7 @@ Min Jia, <b>Xuanyi Chen</b>, Xuetao Shi, Yiling Fang, Yangnan Gu#. (2023). Nucle
 
 Professional Service
 ------
-<b>Assistant Editor, <i><a href="https://www.springer.com/journal/44154">Stress Biology</a></i>, Jul 2023 – current</b>
+<b>Assistant Editor, <i><a href="https://www.springer.com/journal/44154">Stress Biology</a></i>, Jul 2023 – Dec 2025</b>
 
 Yangling, CN
 
@@ -109,4 +109,5 @@ Outside of Work
 ------
 - Listening Music
 - Singing
-- Walking
+- Cook
+- Hiking
