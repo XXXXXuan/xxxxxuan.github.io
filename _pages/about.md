@@ -9,9 +9,9 @@ redirect_from:
 
 I received my PhD in Plant Molecular Genetics in College of Life Sciences, Northwest Agriculture & Forest University, Yangling, China, under the supervision of Prof. <a href="https://life.nwafu.edu.cn/szdw/js2/809883e95b9a42acab50c5e348281e96.htm">Cun Wang</a>. 
 
-My research focuses on understanding how plants (especailly <i>Arabidopsis</i> and wheat) respond to external stresses by integrating molecular and cellular approaches with multi-omic sequencing data. My first first-author article is currently out in <i>New Phytologist</i>. 
+My doctoral research focused on understanding how plants (especailly <i>Arabidopsis</i> and wheat) respond to external stresses by integrating molecular and cellular approaches with multi-omic sequencing data. My first first-author article is currently out in <i>New Phytologist</i>. 
 
-<b>I graduated with a PhD in Dec 2025 and am actively seeking postdoctoral positions overseas, particularly in the North America or Europe.</b> I am especially interested in research related to crops biology (e.g. wheat, tomoto, sorghum...), metabolic pathway biosynthesis, or Arabidopsis, which has been my primary model organism. I am also willing to apply for postdoctoral fellowships to support my research under the guidance of my future postdoctoral mentor. 
+<b>I graduated in Dec 2025 and have accepted a postdoctoral researcher position</b>.
 
 Education
 ======
