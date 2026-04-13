@@ -11,7 +11,7 @@ I received my PhD in Plant Molecular Genetics in College of Life Sciences, North
 
 My doctoral research focused on understanding how plants (especailly <i>Arabidopsis</i> and wheat) respond to external stresses by integrating molecular and cellular approaches with multi-omic sequencing data. My first first-author article is currently out in <i>New Phytologist</i>. 
 
-<b>I graduated in Dec 2025 and have accepted a postdoctoral researcher position</b>.
+<b>I graduated in Dec 2025 and have accepted a postdoctoral researcher position at John Innes Centre</b>.
 
 Education
 ======
