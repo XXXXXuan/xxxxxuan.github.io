@@ -1,0 +1,63 @@
+* {
+	box-sizing: border-box;
+}
+
+
+html {
+	scroll-behavior: smooth;
+}
+
+
+body {
+
+	margin: 0;
+
+	font-family: "Inter", sans-serif;
+
+	color: #111827;
+
+	background: #ffffff;
+
+	line-height: 1.25;
+
+}
+
+
+a {
+
+	color: inherit;
+
+	text-decoration: none;
+
+}
+
+
+.container {
+	width: min(92%, 860px);
+    margin: 0 auto;
+
+}
+
+:root {
+
+    --bg: #ffffff;
+
+    --text: #161616;
+
+    --muted: #666666;
+
+    --line: #e8e8e8;
+
+    --surface: #f7f7f7;
+
+    --accent: #31638e;
+
+}
+
+.publication {
+
+    padding: 32px 0;
+
+    border-bottom: 1px solid var(--line);
+
+}
