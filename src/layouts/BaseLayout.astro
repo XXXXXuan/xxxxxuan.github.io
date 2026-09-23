@@ -32,6 +32,23 @@ const pageTitle =
 	content="width=device-width" 
 	/>
 
+    <!-- Google Analytics -->
+    <script
+	async
+	src="https://www.googletagmanager.com/gtag/js?id=G-35W902N7JJ"
+    ></script>
+
+    <script is:inline>
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+
+	gtag('js', new Date());
+
+	gtag('config', 'G-35W902N7JJ');
+    </script>
 
 	<title>{pageTitle}</title>
 
